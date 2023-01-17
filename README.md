@@ -1,0 +1,2 @@
+# SynologyDDNS
+Synology cloudflare ddns
